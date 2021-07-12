@@ -1,7 +1,7 @@
-package com.br.estudos.sql;
+package br.com.estudos.sql;
 
-import com.br.estudos.Connection;
-import com.br.estudos.db.DbConnector;
+import br.com.estudos.Connection;
+import br.com.estudos.db.DbConnector;
 
 // Concrete Product
 public class SqlServerConnector extends DbConnector {

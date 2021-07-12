@@ -1,8 +1,8 @@
-package com.br.estudos.db;
+package br.com.estudos.db;
 
-import com.br.estudos.DataBase;
-import com.br.estudos.oracle.OracleFactory;
-import com.br.estudos.sql.SqlFactory;
+import br.com.estudos.DataBase;
+import br.com.estudos.oracle.OracleFactory;
+import br.com.estudos.sql.SqlFactory;
 
 // Abstract Creator
 public abstract class DbFactory {

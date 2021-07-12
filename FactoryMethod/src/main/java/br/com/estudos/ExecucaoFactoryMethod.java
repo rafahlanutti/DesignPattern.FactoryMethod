@@ -1,6 +1,6 @@
-package com.br.estudos;
+package br.com.estudos;
 
-import com.br.estudos.db.DbFactory;
+import br.com.estudos.db.DbFactory;
 
 public class ExecucaoFactoryMethod {
     public static void executar() throws Exception {

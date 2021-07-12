@@ -1,6 +1,6 @@
-package com.br.estudos.db;
+package br.com.estudos.db;
 
-import com.br.estudos.Connection;
+import br.com.estudos.Connection;
 
 public abstract class DbConnector {
     protected DbConnector(String connectionString) {

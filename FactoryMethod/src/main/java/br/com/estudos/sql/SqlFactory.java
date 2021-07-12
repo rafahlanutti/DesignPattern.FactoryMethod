@@ -1,7 +1,7 @@
-package com.br.estudos.sql;
+package br.com.estudos.sql;
 
-import com.br.estudos.db.DbConnector;
-import com.br.estudos.db.DbFactory;
+import br.com.estudos.db.DbConnector;
+import br.com.estudos.db.DbFactory;
 
 // Concrete Creator
 public class SqlFactory extends DbFactory {

@@ -1,7 +1,7 @@
-package com.br.estudos.oracle;
+package br.com.estudos.oracle;
 
-import com.br.estudos.Connection;
-import com.br.estudos.db.DbConnector;
+import br.com.estudos.Connection;
+import br.com.estudos.db.DbConnector;
 
 // Concrete Product
 public class OracleDbConnector extends DbConnector {
